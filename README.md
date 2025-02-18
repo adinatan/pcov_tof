@@ -1,1 +1,1 @@
-Run pcov_tof.m and generate the plots below:
+Run pcovmap_tof.m and generate the plots below:
